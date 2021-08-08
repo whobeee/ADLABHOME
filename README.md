@@ -1,3 +1,5 @@
 # ADLAB101
- # vagrant up
- # ansible-playbook -i hosts labsetup.yml
+ 
+	vagrant up
+ 
+	ansible-playbook -i hosts labsetup.yml
